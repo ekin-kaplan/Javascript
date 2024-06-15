@@ -15,3 +15,14 @@ var hello
 console.log(2 ** 3)// power function
 console.log(2 ** 2 + birthDate)
 console.log(isActive + ' ' + birthDate)
+
+let me = 'I'
+let val = `Who am ${me}`
+console.log(val)
+
+let n = '1' + 1;
+console.log(typeof n);
+n = n - 1;
+console.log(typeof n);
+
+// falsy values : 0 , '', null , undefined , NaN
